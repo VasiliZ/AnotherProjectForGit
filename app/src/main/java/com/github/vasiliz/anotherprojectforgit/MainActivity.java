@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
         //add comment to master branch
         //some comment
-        //another
+
     }
 
     @Override
